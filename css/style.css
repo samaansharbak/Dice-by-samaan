@@ -56,10 +56,15 @@ footer{
     color: white; 
     justify-content: center;
 }
-@media screen and ( max-width: 760px ){
+@media screen and ( max-width: 768px ){
+    header{
+        font-size: 3rem;
+    }
     .dice1, .dice2{
         width: 50%;
     }
+     body { font-size: 16px;
+}
 }
 
 
