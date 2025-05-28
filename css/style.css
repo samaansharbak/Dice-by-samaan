@@ -61,10 +61,12 @@ footer{
         font-size: 2rem;
     }
     .dice1, .dice2{
-        width: 30%;
+        width: 50%;
+        height: 20vh;
     }
      body { font-size: 16px;
-}
+    }   
+
 }
 
 
