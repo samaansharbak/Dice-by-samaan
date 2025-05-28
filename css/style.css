@@ -64,8 +64,8 @@ footer{
         width: 50%;
     }
     .dice1 img, .dice2 img{
-        width: 80%;
-        height: 80%;
+        width: 50%;
+        height: 50%;
     }
      body { font-size: 16px;
     }
